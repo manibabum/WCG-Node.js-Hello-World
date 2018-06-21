@@ -1,0 +1,18 @@
+{
+  "name": "wcg_nodejs_hello_world",
+  "version": "1.0.0",
+  "description": "WCG -- Node.js Hello World Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "WCG"
+  ],
+  "author": "Siddharth Seth",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
